@@ -1,0 +1,17 @@
+===============================================================================
+DATASET INFORMATION
+===============================================================================
+File: 02_Trnava_micrograv.grd
+Format: Surfer ASCII Grid (DSAA)
+
+Author/Provider: 
+  Prof. Roman Pašteka
+  Faculty of Natural Sciences, Comenius University in Bratislava
+
+Description:
+  Microgravity anomaly dataset over the Trnava site.
+
+Notes:
+  This dataset is included in this repository solely for scientific 
+  reproducibility of the inversion algorithm results.
+===============================================================================
