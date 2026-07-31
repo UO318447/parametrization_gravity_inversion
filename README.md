@@ -142,20 +142,12 @@ No additional third-party libraries are required.
 
 
 
-\# Data Availability
+## Dataset Attribution
 
+The microgravity grid used in this project (`02_Trnava_micrograv.grd`) was provided by **Prof. Roman Pašteka** (Comenius University in Bratislava, Slovakia). 
 
-
-The Trnava microgravity dataset used in this work was kindly provided by **Prof. Roman Pašteka**, Comenius University in Bratislava.
-
-
-
-The authors do not own the dataset and therefore it is **not redistributed** as part of this repository.
-
-
-
-Researchers interested in using the original dataset should contact Prof. Roman Pašteka directly to request permission for its use.
-
+* **Format:** Surfer ASCII Grid (DSAA).
+* **Usage Rights:** Provided for academic and research reproducibility purposes associated with this repository. If you use this dataset in your research, please acknowledge the original source.
 
 
 
